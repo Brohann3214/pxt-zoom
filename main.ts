@@ -3,7 +3,7 @@ let y1 = 0
 let x1 = 0
 let memsize1 = 0
 let size1 = 1
-let zLayer1 = 1
+let zLayer1 = 0
 let sw = screen.width
 let sh = screen.height
 let variable = scene.createRenderable(zLayer1, (image: Image, camera: scene.Camera) => {
